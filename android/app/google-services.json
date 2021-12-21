@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "898487106746",
+    "project_id": "cooleventappp",
+    "storage_bucket": "cooleventappp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898487106746:android:c2fe91cf8f792f6d3a1683",
+        "android_client_info": {
+          "package_name": "com.example.red_egresados"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898487106746-n97u822fla7jr63333rvk0rhv7s27cge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCreL2sJa5t_Fjhn3k9rjo3-OvP-ea3R84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898487106746-n97u822fla7jr63333rvk0rhv7s27cge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
